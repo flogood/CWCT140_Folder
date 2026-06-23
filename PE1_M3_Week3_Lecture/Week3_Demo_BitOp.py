@@ -4,4 +4,11 @@ b = 0b1100
 print(bin(a&b))
 print(bin(a|b))
 print(bin(a^b))
-print(bin(~0b11111111))
+
+#<<
+print(a)
+print(a<<3)
+
+#>>
+print(b)
+print(b>>3)
