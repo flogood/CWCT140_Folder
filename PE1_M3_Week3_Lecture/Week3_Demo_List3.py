@@ -1,6 +1,6 @@
 myList = [1, 2, 3, 4, 5]
 
-myDeepCopyList = myList[1:3]
+myDeepCopyList = myList[0:5]
 
 print(myList)
 print(myDeepCopyList)
